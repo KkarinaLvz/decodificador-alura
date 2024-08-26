@@ -6,7 +6,6 @@
 * [Status do Projeto](#status-do-projeto)
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Acesso ao projeto](#acesso-ao-projeto)
 
 # Descrição do projeto
 
