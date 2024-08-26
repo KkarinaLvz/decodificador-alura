@@ -6,6 +6,7 @@
 * [Status do Projeto](#status-do-projeto)
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Acesso ao Projeto](#acesso-ao-projeto)
 
 # Descrição do projeto
 
@@ -29,3 +30,7 @@ A proposta do desafio para o programa ONE turma 7 foi criar um decodificador de 
 - CSS
 - Javascript
 - Visual Studio Code
+
+# Acesso ao Projeto
+
+* [Link de acesso](https://decodificador-alura-six.vercel.app)
