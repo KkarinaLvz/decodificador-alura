@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Challenge - Decodificador</title>
+  </head>
+  <body>
+    <header>
+        <h1 class="titulo">Decodificador <br> Challenge Alura</h1>
+    </header>
+    <main>
+      <div>
+        <textarea id="mensagem" placeholder="Digite uma mensagem:"></textarea>
+      </div>
+      <div class="regras">
+        <ul>
+          <p>Somente com letras maiúsculas!<br> Não use acentos ou caracteres especiais!</p>
+        </ul>
+      </div>
+
+      <button class="botao" onclick="botaoCriptografar()">Criptografar</button>
+      <button class="botao" onclick="botaoDescriptografar()">
+        Descriptografar
+      </button>
+
+      <div>
+        <textarea id="resultado" placeholder="Resultado"></textarea>
+      </div>
+
+      <button class="botao" onclick="copiar()">Copiar</button>
+
+      <script defer src="script.js"></script>
+    </main>
+    <footer>
+      <a class="links" href="https://github.com/KkarinaLvz">
+        <img src="./assets/github.png" alt="github" />
+      </a>
+      <a class="links" href="https://www.linkedin.com/in/karina-souza-a70098186/">
+        <img src="./assets/linkedin.png" alt="linkedin" />
+      </a>
+      <p class="rodape">
+        Made by Karina Mesquita <br>
+        Alura - Oracle One 2024 
+      </p>
+    </footer>
+  </body>
+</html>

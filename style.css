@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+
+* {
+    padding: 0px;
+    height: auto;
+    width: auto;
+    align-items: center;
+    text-align: center;
+    font-family: "Krona One", sans-serif;
+    background-color: #E2BFD9;
+  }
+  
+.titulo {
+    font-style: bold;
+    font-weight: 700;
+    color: #674188;
+    padding: 1% 0 1% 0;
+}
+
+  textarea {
+    width: 40%;
+    height: 80px;
+    padding: 20px;
+    border-radius: 32px;
+    background-color: #F7EFE5;
+    font-size: large;
+    text-align: center; 
+    color: #C8A1E0;
+  }
+  
+  .regras {
+    font-style: bold;
+    color: #674188;
+
+  }
+  
+  .botao {
+    width: 300px;
+    height: 50px;
+    font-size: 16px;
+    margin: 20px;
+    background-color: #C8A1E0;
+    border-radius: 32px;
+  }
+  
+ .botao:hover {
+    background-color: #674188;
+    cursor: pointer;
+  }
+  
+  .links img{
+    height: 50px;
+    margin: 15px 5px 20px 5px;
+    gap: 10px;
+  }
+
+  .rodape {
+    color: #674188;
+  }
